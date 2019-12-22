@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<psf version="2.0">
+<provider id="org.eclipse.team.svn.core.svnnature">
+<project reference="1.0.1,https://github.com/dandar3/android-androidx-cardview/tags/1.0.0,androidx-cardview,b02defda0a25001a1746b9f2272c455f;https://github.com/dandar3/android-androidx-cardview;https://github.com/dandar3/android-androidx-cardview;branches;tags;trunk;true;e135e009-114a-8b25-275d-ce57b7db7bff;https://github.com/dandar3/android-androidx-cardview;;false;;;0"/>
+</provider>
+</psf>
